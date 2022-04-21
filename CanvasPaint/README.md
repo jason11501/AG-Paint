@@ -4,4 +4,4 @@ Its kinda scuffed xD
 
 
 
-https://minhthanh-206lhp.github.io/CanvasPaint/
+https://merciful-spiffy-constellation.glitch.me/CanvasPaint/
