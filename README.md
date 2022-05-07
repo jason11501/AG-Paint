@@ -12,3 +12,6 @@ Gồm những tính năng (features): <br>
 
 **Ngôn ngữ (Language):**
 * Javascript
+
+# Result
+https://merciful-spiffy-constellation.glitch.me/CanvasPaint/
