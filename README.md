@@ -13,7 +13,7 @@ Gồm những tính năng (features): <br>
 **Ngôn ngữ (Language):**
 * Javascript
 
-# Result
+# Demonstration
 https://merciful-spiffy-constellation.glitch.me/CanvasPaint/
 
 # Copyright
