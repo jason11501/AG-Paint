@@ -15,5 +15,5 @@ Gồm những tính năng (features): <br>
 # Demonstration
 https://merciful-spiffy-constellation.glitch.me/CanvasPaint/
 
-# Copyright
-Nguyễn Phan Vũ
+# Collaboration
+Nguyễn Phan Vũ, Ngô Nhật Du
